@@ -1,7 +1,9 @@
 # ZombieDice
 
 Created June 2019
-Uploaded July 2021 
+Uploaded July 30 2021 
+
+*I created this game to try to apply the programming skills and knowledge I had acquired to a game that I was not very familiar with and to test my capabilities.        I wanted to see the extent of my ability and to see how Object Oreinted programming to could allow for cleaner, more organized and better code. 
 
 This Game Application, played in the console, allows the user to play the board game Zombie Dice with two to five players. The game will start by getting players’ names and then generates a random turn order.
 
